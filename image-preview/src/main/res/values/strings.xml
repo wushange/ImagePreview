@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Image-preview</string>
+    <string name="loading">正在处理...</string>
+    <string name="save_pic">保存</string>
+    <string name="share">分享</string>
+    <string name="copy_url">复制链接</string>
+    <string name="download_again">重新下载</string>
+
+    <string name="copy_ok">复制成功</string>
+    <string name="save_ok"> 保存成功</string>
+    <string name="sava_fail">保存失败，请重试 </string>
+    <string name="shareto">分享到</string>
+    <string name="load_fail">图片加载失败</string>
+
+</resources>
