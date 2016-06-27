@@ -1,9 +1,19 @@
 项目中用到图片浏览 拆分出来 以后方便使用
+高仿微信图片浏览器
 module使用 rxjava + okhttp3 +  fresco
 所以项目中引用以后  会增大安装包体积2m左右
 如果你的项目中没有使用rxjava 和 okhttp3 和fresco的图片加载器的话 请慎用，介意安装包大小慎用，适用 rxjava + okhttp + retrofit 构建的项目
 
-[源码下载](https://github.com/wushge11/ImagePreview)
+ - 手势放大缩小
+ - 点击关闭
+ - 支持加载网络图片和本地图片
+ - 优化内存
+ - 自动缓存
+ - 可以保存到本地
+ - 复制图片链接
+
+[源码下载](http://download.csdn.net/detail/wushge11/9560585)
+[github](https://github.com/wushge11/ImagePreview)
  支持加载本地图片和网络图片 手势放大缩小查看， 保存本地 复制链接 优化缓存， 
  看效果，
 ![这里写图片描述](http://img.blog.csdn.net/20160625111900812)
@@ -73,7 +83,8 @@ module使用 rxjava + okhttp3 +  fresco
 ```
 
 
-[源码下载](https://github.com/wushge11/ImagePreview)
+[源码下载](http://download.csdn.net/detail/wushge11/9560585)
+[github](https://github.com/wushge11/ImagePreview)
 自身项目有的就不用添加了
 
 这就是我自己为了方便写的小玩意， 介意安装包大小慎用，适用 rxjava + okhttp + retrofit 构建的项目
