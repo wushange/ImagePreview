@@ -11,6 +11,8 @@ import android.view.View;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.dmcc.image_preview.base.BaseFragment;
+import com.dmcc.image_preview.base.BasePresenter;
 import com.dmcc.image_preview.photodrawee.OnViewTapListener;
 import com.dmcc.image_preview.photodrawee.PhotoDraweeView;
 import com.facebook.drawee.backends.pipeline.Fresco;

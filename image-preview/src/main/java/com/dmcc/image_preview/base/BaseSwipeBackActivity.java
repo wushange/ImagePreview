@@ -1,4 +1,4 @@
-package com.dmcc.image_preview;
+package com.dmcc.image_preview.base;
 
 import android.annotation.TargetApi;
 import android.app.Activity;

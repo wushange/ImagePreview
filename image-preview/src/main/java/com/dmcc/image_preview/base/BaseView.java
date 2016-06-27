@@ -1,4 +1,4 @@
-package com.dmcc.image_preview;
+package com.dmcc.image_preview.base;
 
 /**
  * Created by wushange on 2016/06/18.

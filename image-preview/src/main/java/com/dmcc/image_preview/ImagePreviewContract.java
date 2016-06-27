@@ -1,6 +1,8 @@
 package com.dmcc.image_preview;
 
 
+import com.dmcc.image_preview.base.BaseView;
+
 /**
  * Created by sll on 2016/5/11.
  */

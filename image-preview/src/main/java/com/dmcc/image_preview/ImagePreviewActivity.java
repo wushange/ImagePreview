@@ -15,6 +15,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 
+import com.dmcc.image_preview.base.BaseSwipeBackActivity;
+
 import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
