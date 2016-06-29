@@ -35,7 +35,12 @@ module使用 rxjava + okhttp3 +  fresco
     compile 'com.wushange:image-preview:1.0'
 ```
 
+记得修改主题为
 
+```
+Theme.AppCompat.Light.NoActionBar
+
+```
 
 然后再manifest 中添加activity
 
