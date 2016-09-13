@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         initFrescoConfig();
         for (int i = 0; i < 5; i++) {
+            extraPics.add("http://img2081.poco.cn/mypoco/myphoto/20130102/15/37946792201301021535501010906275817_001.jpg");
             extraPics.add("http://image6.huangye88.com/2013/03/28/2a569ac6dbab1216.jpg");
             extraPics.add("http://i.epetbar.com/2014-06/07/a08a0303f1e8e41b880588891c453b16.jpg");
             extraPics.add("http://www.shifenkafei.com/data/upload/553deb1621af2.jpg");
@@ -32,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
             extraPics.add("http://www.meiwai.net/uploads/allimg/c150907/14416140N1GZ-51951.jpg");
             extraPics.add("http://d6.yihaodianimg.com/N03/M04/16/3D/CgQCs1N5MUiATsxVAADJLWXi5mk84700.jpg");
             extraPics.add("http://www.51pinwei.com/uploads/allimg/140415/1322-140415112HNZ.jpg");
-            extraPics.add("http://www.goupic.com/wp-content/uploads/2012/10/riben-qiutianquan-tupian-14.jpg");
         }
 
         findViewById(R.id.test).setOnClickListener(new View.OnClickListener() {
