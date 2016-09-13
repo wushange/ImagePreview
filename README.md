@@ -3,7 +3,7 @@
 module使用 rxjava + okhttp3 +  fresco
 所以项目中引用以后  会增大安装包体积2m左右
 如果你的项目中没有使用rxjava 和 okhttp3 和fresco的图片加载器的话 请慎用，介意安装包大小慎用，适用 rxjava + okhttp + retrofit 构建的项目
-
+ - 微博长图查看
  - 手势放大缩小
  - 点击关闭
  - 支持加载网络图片和本地图片
@@ -11,6 +11,7 @@ module使用 rxjava + okhttp3 +  fresco
  - 自动缓存
  - 可以保存到本地
  - 复制图片链接
+
 
 [源码下载](http://download.csdn.net/detail/wushge11/9560585)
 [github](https://github.com/wushge11/ImagePreview)
