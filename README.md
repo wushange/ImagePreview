@@ -33,7 +33,8 @@ module使用 rxjava + okhttp3 +  fresco
     compile 'io.reactivex:rxandroid:1.1.0'
     compile 'com.squareup.okhttp3:okhttp:3.3.1'
     compile 'com.github.castorflex.smoothprogressbar:library:1.1.0'
-    compile 'com.wushange:image-preview:1.0'
+    
+    compile 'com.wushange:image-preview:1.1'
 ```
 
 记得修改主题为
